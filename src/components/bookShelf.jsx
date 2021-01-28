@@ -5,7 +5,7 @@ const BookShelf = () => {
   return (
     <React.Fragment>
       <p>
-        I am inside the bookshelf component{" "}
+       Je suis dans le composant bibliothèque{" "}
         <span role="img" aria-labelledby="emoji">
           🚀
         </span>
