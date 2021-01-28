@@ -7,8 +7,7 @@ const Book = () => {
   return (
     <React.Fragment>
       <p>
-        Hi, I am a book inside the bookshelf. My information is coming from the
-        context!{" "}
+       Salut, je suis un livre dans la bibliothèque. Mes informations proviennent de context!{" "}
         <span role="img" aria-labelledby="emoji">
           🧱
         </span>
