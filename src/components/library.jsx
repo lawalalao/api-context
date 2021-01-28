@@ -5,7 +5,7 @@ const Library = () => {
   return (
     <div className="pt-3">
       <p>
-        I am inside the library component.{" "}
+         Je suis dans le composant Library..{" "}
         <span role="img" aria-labelledby="emoji">
           ⚡
         </span>{" "}
